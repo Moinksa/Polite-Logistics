@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ai.llamapress.leo.rails_leo_neru.twa",
+        "sha256_cert_fingerprints": ["92:24:2F:D1:D7:A3:E5:4C:4F:71:53:5D:DC:88:C0:00:02:5E:9E:45:E3:35:34:7A:8D:86:58:42:6C:F4:14:F9"]
+      }
+    }]
